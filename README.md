@@ -2,35 +2,32 @@
 
 # Antonio Galvão Martins Neto
 
-### Data Engineering · Python · AI · Cybersecurity
+**Engenharia de Dados · Python · C++ · Inteligência Artificial · Cibersegurança**
 
-Building data-driven systems, distributed applications and security-focused software.
+Desenvolvendo sistemas orientados a dados, aplicações distribuídas e soluções com foco em segurança.
 
-[![GitHub](https://img.shields.io/badge/GitHub-anetogm-181717?style=for-the-badge&logo=github)](https://github.com/anetogm)
+[![GitHub](https://img.shields.io/badge/GitHub-anetogm-181717?style=flat-square&logo=github)](https://github.com/anetogm)
 
 </div>
 
 ---
 
-## 👨‍💻 About me
+## Sobre mim
 
-I'm a **Computer Information Systems student at UTFPR** and a developer interested in the intersection of **data engineering, artificial intelligence, cybersecurity and distributed systems**.
+Sou estudante de **Sistemas de Informação na UTFPR** e desenvolvedor com interesse na interseção entre **engenharia de dados, inteligência artificial, cibersegurança e sistemas distribuídos**.
 
-I enjoy building practical software that connects APIs, data pipelines, automation, backend services and infrastructure — especially projects where reliability, scalability and security matter.
+Tenho interesse em projetos que envolvam APIs, pipelines de dados, automações, serviços backend, mensageria, infraestrutura e segurança.
 
-- 🧠 Focused on **Data Engineering, Python and AI systems**
-- 🔐 Active in **cybersecurity, digital forensics and CTFs**
-- ⚙️ Interested in **distributed systems, APIs and event-driven architectures**
-- 🐧 Linux user and container enthusiast
-- 🐝 Coordinator at **VESPAS**, a cybersecurity extension project
+Atuo também no **VESPAS**, projeto de extensão voltado à cibersegurança, CTFs, educação e produção de conteúdo técnico.
 
 ---
 
-## 🛠️ Tech stack
+## Tech Stack
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -48,80 +45,51 @@ I enjoy building practical software that connects APIs, data pipelines, automati
 
 ---
 
-## 🚀 Featured projects
+## Projetos em destaque
 
-### 🔐 [Driva Sentinel](https://github.com/anetogm/driva-sentinel)
-A web security analysis platform with specialized scanners for **HTTP headers, TLS, DNS, exposure and technology fingerprinting**, built with a modern backend/frontend stack and Kubernetes-ready infrastructure.
+### [Driva Sentinel](https://github.com/anetogm/driva-sentinel)
+Plataforma de análise de segurança para aplicações web, com scanners especializados, pontuação de risco, API REST e infraestrutura preparada para Kubernetes.
 
-`Python` `FastAPI` `Next.js` `Celery` `Redis` `Docker` `Kubernetes` `Prometheus`
+`Python` `FastAPI` `Next.js` `Celery` `Redis` `Docker` `Kubernetes`
 
-### 🤖 [Feedback Inteligente](https://github.com/anetogm/feedback-inteligente)
-AI chatbot with **Gemini function calling**, external API integrations, persistent conversation history, a **ChromaDB vector store** and an automated feedback loop that improves system prompts over time.
+### [Feedback Inteligente](https://github.com/anetogm/feedback-inteligente)
+Chatbot com IA, function calling, integrações externas, histórico persistente, vector store e ciclo de feedback para evolução automática de prompts.
 
-`Python` `Gemini` `ChromaDB` `Streamlit` `Docker` `Function Calling`
+`Python` `Gemini` `ChromaDB` `Streamlit` `Docker`
 
-### 🌐 [Distributed Auction System — gRPC](https://github.com/anetogm/grpc)
-Distributed auction application built around **gRPC microservices**, Protocol Buffers and streaming communication, with a gateway connecting auction, bid and payment services.
+### [Sistema de Leilões com gRPC](https://github.com/anetogm/grpc)
+Aplicação distribuída baseada em microsserviços gRPC, Protocol Buffers, streaming e gateway central para coordenação dos serviços.
 
-`Python` `gRPC` `Protocol Buffers` `Flask` `Microservices`
+`Python` `gRPC` `Protocol Buffers` `Flask` `Microsserviços`
 
-### 📨 [Distributed Auction System — RabbitMQ](https://github.com/anetogm/sd-leilao-rabbitmq)
-Event-driven auction system using **RabbitMQ**, multiple independent services and **RSA/SHA-256 signed bids** for message authenticity.
+### [Sistema de Leilões com RabbitMQ](https://github.com/anetogm/sd-leilao-rabbitmq)
+Sistema orientado a eventos com RabbitMQ, serviços independentes e validação de lances assinados digitalmente com RSA e SHA-256.
 
-`Python` `RabbitMQ` `Pika` `RSA` `SHA-256` `Tkinter`
+`Python` `RabbitMQ` `Pika` `RSA` `SHA-256`
 
-### 📊 [Data Automation](https://github.com/anetogm/Automacao-Dados)
-Python automation project that processes sales data, calculates business indicators, generates per-store reports, builds rankings and automates report delivery workflows.
+### [Automação de Dados](https://github.com/anetogm/Automacao-Dados)
+Automação para processamento de dados de vendas, geração de indicadores, relatórios, rankings e distribuição automatizada de resultados.
 
-`Python` `Pandas` `Excel` `Data Automation`
+`Python` `Pandas` `Excel` `Automação de Dados`
 
-### 🖥️ [Linux Process Dashboard](https://github.com/anetogm/Dashboard-SO)
-Real-time Linux monitoring dashboard that reads directly from `/proc` to visualize process information, CPU usage and memory consumption.
+### [Linux Process Dashboard](https://github.com/anetogm/Dashboard-SO)
+Dashboard de monitoramento em tempo real para Linux, lendo diretamente de `/proc` para exibir processos, uso de CPU e consumo de memória.
 
 `Python` `Dash` `Plotly` `Linux` `Multithreading`
 
 ---
 
-## 🔐 Cybersecurity
+## Cibersegurança
 
-I'm especially interested in the practical side of security, including:
-
-- Digital forensics
-- Network security
-- Web security
-- Security automation
-- CTFs
-- AI applied to cybersecurity
-
-Through **VESPAS**, I participate in cybersecurity education, technical content, CTF activities and community initiatives.
+Meus principais interesses na área são **forense digital, segurança de redes, segurança web, automação de segurança, CTFs e aplicações de IA em cibersegurança**.
 
 ---
 
-## 📚 Currently exploring
-
-```text
-Data Engineering     ████████████████████
-Cybersecurity        ███████████████████░
-AI Systems           ██████████████████░░
-Distributed Systems  ██████████████████░░
-Cloud / Kubernetes   █████████████████░░░
-```
-
----
-
-## 📈 GitHub
+## GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anetogm&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Antonio's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anetogm&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most used languages" />
-
-</div>
-
----
-
-<div align="center">
-
-### Always learning. Always building.
+[![Seguidores](https://img.shields.io/github/followers/anetogm?label=Seguidores&style=flat-square&logo=github)](https://github.com/anetogm?tab=followers)
+[![Repositórios públicos](https://img.shields.io/badge/Repositórios-projetos%20públicos-181717?style=flat-square&logo=github)](https://github.com/anetogm?tab=repositories)
 
 </div>
