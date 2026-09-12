@@ -1,95 +1,66 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B7285&height=120&section=header" alt="header"/>
 
-# Antonio Galvão Martins Neto
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4200&pause=700&color=0B7285&width=700&lines=Ol%C3%A1%2C+eu+sou+Antonio+Neto;Engenharia+de+Dados;Python+%C2%B7+SQL+%C2%B7+Spark+%C2%B7+PySpark;Ciberseguran%C3%A7a+%C2%B7+Sistemas+Distribu%C3%ADdos" alt="Apresentação de Antonio Neto"/>
+</a>
 
-**Engenharia de Dados · Python · C++ · Inteligência Artificial · Cibersegurança**
-
-Desenvolvendo sistemas orientados a dados, aplicações distribuídas e soluções com foco em segurança.
-
-[![GitHub](https://img.shields.io/badge/GitHub-anetogm-181717?style=flat-square&logo=github)](https://github.com/anetogm)
-
+<div>
+  <img src="./assets/about_antonio.svg" alt="Sobre Antonio Neto em formato de terminal" width="100%"/>
 </div>
 
----
+### Sobre mim
 
-## Sobre mim
+Sou estudante de **Sistemas de Informação na UTFPR** e atuo principalmente com **Engenharia de Dados**, trabalhando com processamento, transformação, integração e investigação de dados.
 
-Sou estudante de **Sistemas de Informação na UTFPR** e desenvolvedor com interesse na interseção entre **engenharia de dados, inteligência artificial, cibersegurança e sistemas distribuídos**.
+Tenho experiência com **Python, SQL, PySpark, Apache Spark, APIs, pipelines, automações e infraestrutura de dados**, além de interesse e atuação em **cibersegurança, sistemas distribuídos e inteligência artificial**.
 
-Tenho interesse em projetos que envolvam APIs, pipelines de dados, automações, serviços backend, mensageria, infraestrutura e segurança.
+Também faço parte do **VESPAS/UTFPR**, projeto voltado a cibersegurança, CTFs, educação e produção de conteúdo técnico.
 
-Atuo também no **VESPAS**, projeto de extensão voltado à cibersegurança, CTFs, educação e produção de conteúdo técnico.
+### Principais tecnologias
 
----
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,postgres,mysql,mongodb,fastapi,flask,docker,kubernetes,redis,linux,git,github)](https://skillicons.dev)
 
-## Tech Stack
+### Dados & infraestrutura
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
+<div>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse"/>
+  <img src="https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge&logo=apacheparquet&logoColor=white" alt="Apache Parquet"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 </div>
 
----
+### Projetos em destaque
 
-## Projetos em destaque
-
-### [Driva Sentinel](https://github.com/anetogm/driva-sentinel)
+**[Driva Sentinel](https://github.com/anetogm/driva-sentinel)**  
 Plataforma de análise de segurança para aplicações web, com scanners especializados, pontuação de risco, API REST e infraestrutura preparada para Kubernetes.
 
-`Python` `FastAPI` `Next.js` `Celery` `Redis` `Docker` `Kubernetes`
+**[Feedback Inteligente](https://github.com/anetogm/feedback-inteligente)**  
+Chatbot com IA, function calling, integrações externas, histórico persistente e vector store.
 
-### [Feedback Inteligente](https://github.com/anetogm/feedback-inteligente)
-Chatbot com IA, function calling, integrações externas, histórico persistente, vector store e ciclo de feedback para evolução automática de prompts.
+**[Sistema de Leilões com gRPC](https://github.com/anetogm/grpc)**  
+Aplicação distribuída baseada em microsserviços, Protocol Buffers, streaming e gateway central.
 
-`Python` `Gemini` `ChromaDB` `Streamlit` `Docker`
+**[Linux Process Dashboard](https://github.com/anetogm/Dashboard-SO)**  
+Dashboard de monitoramento em tempo real para Linux, lendo diretamente de `/proc` para acompanhar processos, CPU e memória.
 
-### [Sistema de Leilões com gRPC](https://github.com/anetogm/grpc)
-Aplicação distribuída baseada em microsserviços gRPC, Protocol Buffers, streaming e gateway central para coordenação dos serviços.
+### Cibersegurança
 
-`Python` `gRPC` `Protocol Buffers` `Flask` `Microsserviços`
+Além de Engenharia de Dados, mantenho atuação contínua em **cibersegurança**, especialmente em **CTFs, segurança web, forense digital, redes e automação de segurança** por meio do VESPAS/UTFPR e de projetos próprios.
 
-### [Sistema de Leilões com RabbitMQ](https://github.com/anetogm/sd-leilao-rabbitmq)
-Sistema orientado a eventos com RabbitMQ, serviços independentes e validação de lances assinados digitalmente com RSA e SHA-256.
+### Atualmente
 
-`Python` `RabbitMQ` `Pika` `RSA` `SHA-256`
+> [!IMPORTANT]
+> Meu foco profissional está em **Engenharia de Dados**, com interesse especial em pipelines, qualidade de dados, sistemas distribuídos, automação e infraestrutura. Cibersegurança continua sendo uma das principais áreas que desenvolvo em paralelo.
 
-### [Automação de Dados](https://github.com/anetogm/Automacao-Dados)
-Automação para processamento de dados de vendas, geração de indicadores, relatórios, rankings e distribuição automatizada de resultados.
+### GitHub
 
-`Python` `Pandas` `Excel` `Automação de Dados`
-
-### [Linux Process Dashboard](https://github.com/anetogm/Dashboard-SO)
-Dashboard de monitoramento em tempo real para Linux, lendo diretamente de `/proc` para exibir processos, uso de CPU e consumo de memória.
-
-`Python` `Dash` `Plotly` `Linux` `Multithreading`
-
----
-
-## Cibersegurança
-
-Meus principais interesses na área são **forense digital, segurança de redes, segurança web, automação de segurança, CTFs e aplicações de IA em cibersegurança**.
-
----
-
-## GitHub
-
-<div align="center">
-
-[![Seguidores](https://img.shields.io/github/followers/anetogm?label=Seguidores&style=flat-square&logo=github)](https://github.com/anetogm?tab=followers)
-[![Repositórios públicos](https://img.shields.io/badge/Repositórios-projetos%20públicos-181717?style=flat-square&logo=github)](https://github.com/anetogm?tab=repositories)
-
+<div>
+  <a href="https://github.com/anetogm?tab=repositories">
+    <img src="https://img.shields.io/badge/Ver%20meus%20reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios no GitHub"/>
+  </a>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B7285&height=120&section=footer" alt="footer"/>
