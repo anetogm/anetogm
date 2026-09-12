@@ -1,0 +1,23 @@
+<svg width="900" height="250" viewBox="0 0 900 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="250" rx="18" fill="#0D1117"/>
+  <rect x="1" y="1" width="898" height="248" rx="17" stroke="#30363D"/>
+
+  <circle cx="28" cy="26" r="6" fill="#FF5F57"/>
+  <circle cx="48" cy="26" r="6" fill="#FEBB2E"/>
+  <circle cx="68" cy="26" r="6" fill="#28C840"/>
+
+  <text x="28" y="66" fill="#8B949E" font-family="monospace" font-size="17">antonio@github:~$ whoami</text>
+  <text x="28" y="96" fill="#E6EDF3" font-family="monospace" font-size="18" font-weight="700">Antonio Galvão Martins Neto</text>
+
+  <text x="28" y="132" fill="#2F81F7" font-family="monospace" font-size="16">&gt;</text>
+  <text x="50" y="132" fill="#C9D1D9" font-family="monospace" font-size="16">Sistemas de Informação @ UTFPR</text>
+
+  <text x="28" y="162" fill="#2F81F7" font-family="monospace" font-size="16">&gt;</text>
+  <text x="50" y="162" fill="#C9D1D9" font-family="monospace" font-size="16">Engenharia de Dados · Python · SQL · Spark · PySpark</text>
+
+  <text x="28" y="192" fill="#2F81F7" font-family="monospace" font-size="16">&gt;</text>
+  <text x="50" y="192" fill="#C9D1D9" font-family="monospace" font-size="16">Pipelines · APIs · automação · infraestrutura de dados</text>
+
+  <text x="28" y="222" fill="#2F81F7" font-family="monospace" font-size="16">&gt;</text>
+  <text x="50" y="222" fill="#C9D1D9" font-family="monospace" font-size="16">Cibersegurança · CTFs · VESPAS/UTFPR</text>
+</svg>
